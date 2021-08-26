@@ -1,7 +1,17 @@
-nymea-plugins-modbus (0.29.0) UNRELEASED; urgency=medium
+nymea-plugins-modbus (0.29.0) xenial; urgency=medium
 
 
- -- Michael Zanetti <michael.zanetti@nymea.io>  Fri, 09 Jul 2021 13:43:35 +0200
+  [ Simon Stürz ]
+  * Add libnymea-sunspec and update SunSpec plugin containing SolarEdge
+    battery
+
+  [ Michael Zanetti ]
+  * Bump version to 0.29.0
+
+  [ Simon Stürz ]
+  * New plugin: Kostal
+
+ -- Jenkins <jenkins@nymea.io>  Thu, 26 Aug 2021 14:34:23 +0200
 
 nymea-plugins-modbus (0.24.5) xenial; urgency=medium
 
